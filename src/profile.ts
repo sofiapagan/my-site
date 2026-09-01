@@ -16,26 +16,26 @@
 
 export const profile = {
   /** Your name as you want it to appear everywhere. */
-  displayName: "Your Name",
+  displayName: "Sofia Pagan",
 
   /** Your UD email — must match the one you signed into the course with. */
-  email: "you@udel.edu",
+  email: "sofp@udel.edu",
 
   /** Where you're from. Shows on your roster card and /about. */
-  hometown: "Newark, Delaware",
+  hometown: "Fort Lee, New Jersey",
 
   /**
    * 2 to 4 fun facts (the grader checks the count!). Real ones: they're
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "Shaquille O'Neal held me as a baby.",
+    "I play guitar.",
   ],
 
-  /** One decision you're proud of, in a sentence. */
+  /** A decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I chose to major in business analytics because I wanted to learn how to make good decisions at any scale.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
@@ -58,7 +58,7 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a business student at the University of Delaware. This site is my working portfolio: every course challenge deploys here as a live service.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
