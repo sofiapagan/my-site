@@ -58,12 +58,12 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a Business Analytics student at the University of Delaware. This site is my working portfolio: every course challenge deploys here as a live service.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
    * verify you have ≥ 5 commits spread over days (not one bulk dump).
    * Example: "https://github.com/your-username/your-repo"
    */
-  repoUrl: "https://github.com/your-username/your-repo",
+  repoUrl: "https://github.com/sofiapagan/my-site",
 };
