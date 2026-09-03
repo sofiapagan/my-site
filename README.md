@@ -123,3 +123,7 @@ coherent palette, typography picked on purpose, real imagery. This template
 is tasteful out of the box, but out-of-the-box is exactly what the bonus
 isn't for. `src/theme.ts` and [THEME.md](./THEME.md) exist so you can make
 real choices without learning CSS.
+## About this portfolio
+
+This is Sofia Pagan's portfolio website for BANA 442 at the University of Delaware.
+
