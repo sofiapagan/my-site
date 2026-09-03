@@ -29,36 +29,35 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "Shaquille O'Neal held me as a baby.",
+    "I've traveled to Moscow, Russia.",
     "I play guitar.",
   ],
 
   /** A decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to major in business analytics because I wanted to learn how to make good decisions at any scale.",
-
+    "A decision I'm proud of is choosing to major in Business Analytics because it challenges me and helps me develop valuable skills for my future career.",
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "/photo.svg",
+  photoPath: "/photo.jpg",
 
   /**
    * Who can see your roster card:
    *   "class"          — your classmates and the professor (recommended)
    *   "professor-only" — just the professor
    */
-  rosterVisibility: "class" as "class" | "professor-only",
+  rosterVisibility: "class",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building a portfolio of decision services, one lane at a time.",
+  tagline: "Building a portfolio of decision services, one new skill at a time.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a Business Analytics student at the University of Delaware. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a Business Analytics student at the University of Delaware. I enjoy learning how data can explain the choices people make and help businesses make better decisions.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
